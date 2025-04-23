@@ -6,7 +6,7 @@ from telegram.ext import (
     ContextTypes, filters
 )
 
-BOT_TOKEN = os.getenv("8146803096:AAEG2cZTsJLhE9qGMG_6SP-DZKgQnCB8psw")
+BOT_TOKEN = os.getenv("BOT_TOKEN")
 CHANNEL_LINK = "https://t.me/Pump_Signals_Official"
 
 user_states = {}
